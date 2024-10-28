@@ -38,6 +38,12 @@
       },
       "triggers": [
         {
+          "name": "OpenDeepLinkUrlTrigger",
+          "description": "A sample trigger showing how to implement a cancelable trigger. Opens a deep link URL in a new window.",
+          "triggerType": "PreOpenUrl",
+          "modulePath": "Extend/Triggers/OpenDeepLinkUrlTrigger"
+        },
+        {
           "name": "ConfirmChangeQuantityTrigger",
           "description": "A sample trigger showing how to implement a cancelable trigger. Adds a dialog to the Set Quantity flow requesting user confirmation prior to changing quantity.",
           "triggerType": "PreSetQuantity",

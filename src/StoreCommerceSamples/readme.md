@@ -15,3 +15,5 @@ This folder contains sample solutions that demonstrate how to customize the Stor
     - [TriggerSamples](./Extend/Triggers/TriggerSamples/readme.md)
 - Solutions/
   - [GasStation](./Solutions/GasStation/README.md)
+- Accessing Static Resources in Extensions
+  - The [StaticResourcesAccessSample](https://msazure.visualstudio.com/D365/_git/Commerce-Samples-InStore?path=/src/StoreCommerceSamples/PosExtensionSamples/Pos/Extend/Triggers/BeepSoundPostProductSaleTrigger.ts&version=GBmain&line=17&lineEnd=17&lineStartColumn=9&lineEndColumn=89&lineStyle=plain&_a=contents) demonstrates how to access static resources in POS extensions. 
